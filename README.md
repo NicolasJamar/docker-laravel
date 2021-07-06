@@ -10,7 +10,7 @@ A simple docker apache2 for Laravel.
 
 `composer -vvv create-project --prefer-dist laravel/laravel name-of-your-application`
 
-2. Move the files in your lravel project : `apache2`, `Dockerfile`, `docker-compose.yml`
+2. Move the files in your laravel project : `apache2`, `Dockerfile`, `docker-compose.yml`
 
 3. follow the instructions:
 
