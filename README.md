@@ -1,6 +1,8 @@
 # Docker-laravel
 
-A simple docker apache2 for Laravel
+A simple docker apache2 for Laravel. 
+
+> You need to have [composer](https://getcomposer.org/download/) installed on your OS. 
 
 ## Installation 
 
