@@ -39,7 +39,7 @@ PHP is a server-side scripting language designed for web development, but which 
 
 ##### Usage
 
-Place your PHP files in `./src` folder, access it with your browser at address [localhost](http://localhost).
+Access it with your browser at address [localhost](http://localhost). With Laravel, it will point to the `public` folder. 
 
 
 * * *
