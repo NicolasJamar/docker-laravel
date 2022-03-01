@@ -14,13 +14,13 @@ A simple docker apache2 for Laravel.
 
 3. follow the instructions:
 
-`docker-compose build`
+  - `docker compose build`
 
-`docker-compose up -d`
+  - `docker compose up -d`
 
 And it's done ! 
 
-To close docker-compose : `docker-compose down`
+To close docker-compose : `docker compose down`
 
 ## Your services
 
